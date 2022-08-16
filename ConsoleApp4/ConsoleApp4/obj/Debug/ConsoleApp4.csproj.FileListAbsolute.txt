@@ -1,0 +1,8 @@
+D:\kia prjc\tamrin\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+D:\kia prjc\tamrin\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+D:\kia prjc\tamrin\ConsoleApp4\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+D:\kia prjc\tamrin\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.AssemblyReference.cache
+D:\kia prjc\tamrin\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.SuggestedBindingRedirects.cache
+D:\kia prjc\tamrin\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+D:\kia prjc\tamrin\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+D:\kia prjc\tamrin\ConsoleApp4\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
